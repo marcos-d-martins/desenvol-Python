@@ -27,3 +27,4 @@ elif operacao == "/":
             print(f"o resultado da divisão é:{resultado}")
 else:
     print("operação inválida. Por favor escolha entre +, -, *, /")
+    
